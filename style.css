@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(62, 159, 223);
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    text-align: center;
+    color: white;
+}
+
+section {
+    background-color: white;
+    font-size: 15pt;
+    width: 280px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.num, .btn {
+    margin-bottom: 20px;
+}
+
+#iNum {
+    font-size: 12pt;
+    padding: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.329);
+}
+
+.btn {
+    display: block;
+    margin: auto;
+    background-color: rgb(62, 159, 223);
+    border-color: transparent;
+    font-size: 11pt;
+    padding: 5px;
+    border-radius: 8px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+#iTabu {
+    display: block;
+    margin: auto;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 14pt;
+    font-weight: bold;
+    margin-top: 15px;
+}
